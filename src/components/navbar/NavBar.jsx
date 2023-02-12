@@ -9,7 +9,7 @@ const NavBar = () => {
               <div className="col-md-6">
               </div>
               <div className="col-md-6" style={{float: 'right', color: '#fff', margin: '20px 40px 33px 0px'}}>
-                <strong><i className="fa fa-phone" /></strong>+91-9717212073 |<strong><i className="fa fa-mobile" /></strong> +91-9717212073 <strong><a href="https://www.facebook.com/pages/category/Dry-Cleaner/Lucky-Dry-Cleaners-1586681801554945/"><i className="fa fa-facebook-square" aria-hidden="true" style={{color: '#fff', fontSize: '20px'}} /></a></strong>
+                <strong><i className="fa fa-phone" /></strong>+91-9717212073 |<strong><i className="fa fa-mobile" /></strong> +91-8178902212 <strong><a href="https://www.facebook.com/pages/category/Dry-Cleaner/Lucky-Dry-Cleaners-1586681801554945/"><i className="fa fa-facebook-square" aria-hidden="true" style={{color: '#fff', fontSize: '20px'}} /></a></strong>
               </div>
             </div>
           </div>
