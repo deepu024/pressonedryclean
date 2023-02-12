@@ -24,7 +24,7 @@ const Footer = () => {
             <div className="footer-grid">
               <h3>OUR COMPANY</h3>
               <ul>
-                <li><a href="#">Rate List </a></li>
+                <li><a href="/plans">Rate List </a></li>
               </ul>
             </div>
             
