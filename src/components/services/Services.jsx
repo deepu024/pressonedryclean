@@ -38,12 +38,12 @@ const Services = () => {
               <p>Your distinct garment is first inspected for stains, loose buttons or beads and open seams. All repairs are tended to before the cleaning process. Your delicate garment is then pre-treated for stain removal and is professionally dry cleaned by our skilled technicians..</p>
             </div>
             <div className="special-grid">
-              <img src="	http://luckydrycleaners.in/images/9.jpg" title="image-name" />
+              <img src="https://images.pexels.com/photos/6994138/pexels-photo-6994138.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" title="image-name" />
               <a href="#">HOME &amp; BUSINESS PICK UP &amp; DELIVERY</a>
               <p>If you are looking for the convenience of a pick-up and delivery service, at a nominal cost we promise to go beyond all your expectations..</p>
             </div>
             <div className="special-grid spe-grid">
-              <img src="http://luckydrycleaners.in/images/a2.jpg" title="image-name" />
+              <img src="https://sc02.alicdn.com/kf/HTB1zMkdaQ9E3KVjSZFGq6A19XXaK/237341465/HTB1zMkdaQ9E3KVjSZFGq6A19XXaK.jpg" title="image-name" />
               <a href="#">SPECIALTY SERVICE FOR SUITS AND JACKET</a>
               <p>We care about your expensive suits. Each suit is individually treated by our garment care specialists using the finest and the most gentle products available on the international market. Your suit is then gently pressed on our automatic Form Finishers.</p>
             </div>

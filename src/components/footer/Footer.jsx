@@ -16,7 +16,9 @@ const Footer = () => {
             <div className="footer-grid">
               <h3>GET IN TOUCH</h3>
               <p>Main branch sector 67A<br />
-              near m3m Urbana,<br />
+              Near m3m Urbana,<br />
+              Steam press service available <br />
+              At MG road metro station <br />
                 Gurugram, Haryana (India)<br />
                 aman64739@gmail.com<br />
                 Mobile : +91-9717212073</p>
