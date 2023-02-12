@@ -72,8 +72,8 @@ const Main = () => {
           <div className="wrap">
             <div className="testmonial-grid">
               <h3>TESTIMONIALS :</h3>
-              <p>" good service provide by lucky dry cleaners .great work.</p>
-              <a href="#"> - Deepak Gupta</a>
+              <p>" good service provide by Press One dry cleaners .great work.</p>
+              <a href="#"> - Deepanshu Sharma</a>
             </div>
           </div>
         </div>

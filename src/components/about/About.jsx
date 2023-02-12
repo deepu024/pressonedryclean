@@ -27,8 +27,8 @@ const About = () => {
           <div className="wrap">
             <div className="testmonial-grid">
               <h3>TESTIMONIALS :</h3>
-              <p>Best service in Dlf Gurgaon and good staff.;</p>
-              <a href="#"> - Sharad Goyal</a>
+              <p>Best service in Gurugram</p>
+              <a href="#"> - Ashmit Goyal</a>
             </div>
           </div>
         </div>

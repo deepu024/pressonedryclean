@@ -1,0 +1,31 @@
+table, tr, td, th {
+    border: 2px solid black;
+    font-weight: bold;
+    text-align: center;
+}
+
+td, th {
+    padding: 7px;
+}
+
+th {
+    background-color: rgba(54, 53, 53, 0.809);
+    color: white;
+}
+
+.plans-main {
+    height: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 50px;
+}
+
+#table-1 tr:nth-child(even){
+    background-color: #00B895;
+    color: white;
+    font-weight: bold;
+}

@@ -17,12 +17,10 @@ const Contact = () => {
                 <h3>Shop Information :</h3>
                 <p>Main branch sector 67A</p>
                 <p>Near m3m Urbana,</p>
-                <p>Dlf Phase I Gurgaon -122001,</p>
-                <p>Haryana 122001 (India) </p>
+                <p>Steam press service available at mg road metro station</p>
                 <p>Phone:<span>+91- 9717212073 | +91- 8178902212</span></p>
                 <p>Email:<span>aman64739@gmail.com</span></p>
-                <p>Website: <span>http://www.luckydrycleaners.in</span></p>
-                <p>Follow on: <a href="https://www.facebook.com/pages/category/Dry-Cleaner/Lucky-Dry-Cleaners-1586681801554945/">Facebook</a></p>
+                <p>Website: <span>https://pressonedryclean.vercel.app</span></p>
               </div>
             </div>				
             <div className="col span_2_of_3">
