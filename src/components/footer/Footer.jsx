@@ -21,7 +21,8 @@ const Footer = () => {
               At MG road metro station <br />
                 Gurugram, Haryana (India)<br />
                 aman64739@gmail.com<br />
-                Mobile : +91-9717212073</p>
+                <a href="https://wa.me/+919717212073" style={{color: 'white'}}>Mobile : +91-9717212073</a>
+               </p>
             </div>
             <div className="footer-grid">
               <h3>OUR COMPANY</h3>

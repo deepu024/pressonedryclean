@@ -18,9 +18,9 @@ const Contact = () => {
                 <p>Main branch sector 67A</p>
                 <p>Near m3m Urbana,</p>
                 <p>Steam press service available at mg road metro station</p>
-                <p>Phone:<span>+91- 9717212073 | +91- 8178902212</span></p>
-                <p>Email:<span>aman64739@gmail.com</span></p>
-                <p>Website: <span>https://pressonedryclean.vercel.app</span></p>
+                <p>Phone:<span> <a href="https://wa.me/+919717212073">+91- 9717212073 </a>| <a href="https://wa.me/+918178902212"> +91-8178902212 </a></span></p>
+                <p>Email:<span> <a href="mailto:aman64739@gmail.com">aman64739@gmail.com</a></span></p>
+                <p>Website: <span> <a href="https://pressonedryclean.vercel.app" target={'_blank'}> https://pressonedryclean.vercel.app </a></span></p>
               </div>
             </div>				
             <div className="col span_2_of_3">
