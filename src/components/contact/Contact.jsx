@@ -28,7 +28,7 @@ const Contact = () => {
             <div className="col span_2_of_3">
               <div className="contact-form">
                 <h3>Contact Us</h3>
-                <form method="post" action="https://formsubmit.co/ojashsharma024@gmail.com">
+                <form method="post" action="https://formsubmit.co/aman64739@gmail.com">
                   <div>
                     <span><label>NAME</label></span>
                     <span><input name="userName" type="text" className="textbox" required/></span>
